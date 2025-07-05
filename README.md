@@ -12,5 +12,5 @@ ii.) The device should be connected to the local network, via ethernet or wi-fi.
 # PXE server setup:
 ### Step 1: Install `dnsmasq`:  
 ```bash
-  sudo apt update
-  sudo apt install dnsmasq
+sudo apt update
+sudo apt install dnsmasq
