@@ -3,6 +3,6 @@ This repository aims for helping with the configuration of Raspberry pi 5 as a P
 **Note:** This guide can also be extended to other setups.
 
 # Prequisites:
-i.) A Raspberry pi 5(or any other device). \n
-ii.) The device should be connected to the local network, via ethernet or wi-fi. (Ethernet is preferred for better network speeds)
+i.) A Raspberry pi 5(or any other device).
+/nii.) The device should be connected to the local network, via ethernet or wi-fi. (Ethernet is preferred for better network speeds)
 
