@@ -14,3 +14,5 @@ ii.) The device should be connected to the local network, via ethernet or wi-fi.
 ```bash
 sudo apt update
 sudo apt install dnsmasq
+```
+
